@@ -1,0 +1,12 @@
+Filename,Total Citations,Verified,Ghost Citations,Mismatched Metadata,Errors,Hallucination Rate (%)
+fake_paper_01_peer_review.pdf,20,3,11,6,0,85.0
+fake_paper_02_peer_review.pdf,20,3,12,5,0,85.0
+fake_paper_03_peer_review.pdf,20,1,13,6,0,95.0
+fake_paper_04_peer_review.pdf,20,4,10,6,0,80.0
+fake_paper_05_peer_review.pdf,20,1,12,7,0,95.0
+fake_paper_06_peer_review.pdf,20,4,11,5,0,80.0
+fake_paper_07_peer_review.pdf,20,4,11,5,0,80.0
+fake_paper_08_peer_review.pdf,20,3,12,5,0,85.0
+fake_paper_09_peer_review.pdf,20,5,10,5,0,75.0
+fake_paper_10_peer_review.pdf,20,2,13,5,0,90.0
+manu.pdf,16,12,2,2,0,25.0
